@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/background.png",
+        "source": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/logo.png",
+        "source": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    }
+]

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-23.4.0_a608e576e598367cc930465f74e100e8b8cf874b.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/List-2016.2.811-dev-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd03fbbc9b1001fb9b5b2421ed0510ad768fb920">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-List-2016.2.811-dev-release_c14a68c3479ef44e51344401b04dc27e7e8e768d.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-23.4.0_40ff4ea7e595763ac4689ff05baa2c80f2b3676a.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/Primitives-2016.2.811-dev-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3e713ddf537b00dfdae38eb5ac905d8a8fb7c372">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Primitives-2016.2.811-dev-release_04d5d7458afec9b2c79cae6f02ea2dbcadd0ce4f.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/EatSafe/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="60fb0eb96d073a4a1d71095f8e16dbb6ff73681c">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/EatSafe-runtime-unspecified_cba22754698528c7299b8bc943ac71ddc16ea049.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/EatSafe/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="736a019270b8fb0fda4532f90fc9d1a7458022c0">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_71dcd7c606b94b9441d509689eb9292949de19fa.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-23.1.0_20203ff79be21c95faa284a04be0dc30b8231798.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/Common-2016.2.811-dev-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ecc99f35a01ac02f1734fe396e8ff4f650dd733f">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Common-2016.2.811-dev-release_00ef1ff346bf75b804fb3ca967333396b028a31a.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-23.4.0_b28e8cc056ad5e4c435d1e51839d7b69390b2c94.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-23.4.0_87a78a44a1de72f3ce061107e20a35a2f8f386f9.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-23.4.0_0441b42a88fbf215913347e6cef61868d5c448e3.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ebad4c1f10c3db73c2139b81f8657f23fad9a613">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_7e0e1a6b2f743cd673c007f1d1de005a3d69af3c.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/Data-2016.2.811-dev-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ebc3f95b72612dc61a2411fa31dc74c316c78545">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Data-2016.2.811-dev-release_b87e599b3f2e5d5ad7f7539538129ba8816c1c04.jar" />
+    </item>
+    <item
+        jar="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-23.4.0_40abf5856b0e3d1ae72e18d511fc2519a4a10813.jar" />
+    </item>
+
+</items>

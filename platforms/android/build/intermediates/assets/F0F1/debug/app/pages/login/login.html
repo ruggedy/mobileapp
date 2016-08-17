@@ -1,0 +1,13 @@
+<AbsoluteLayout [width]="width">
+	<StackLayout #container [width]="width-60" left="30" [top]="height/5" >
+		<TextField #email hint="Email Address" keyboardType="email" [(ngModel)]="user.email"  autocorrect="false" autocapitalizationType="none"></TextField>
+		<TextField #password hint="password" secure="true" [(ngModel)]="user.password" ></TextField>
+
+		<Button [text]="isLoggedIn? 'sign in' : 'sign up'" class="submit-button" (tap)="login()"  ></Button>
+		<Button [text]="isLoggedIn? 'Sign up' : 'back to login'" (tap)="signUp()"></Button>
+	</StackLayout>
+	<Image src="res://icon" stretch="none" horizontalAlignment="center" [left]="(width/2)-24" [top]="(height/5)-24" ></Image>
+</AbsoluteLayout>
+
+
+

@@ -1,0 +1,28 @@
+<ActionBar title="Home">
+	<NavigationButton text="Menu" icon="res://ic_menu" (tap)="drawerOpen? closeDrawer() : openDrawer()" ></NavigationButton>
+</ActionBar>
+<RadSideDrawer #drawer>
+    <StackLayout tkDrawerContent>
+        <StackLayout class="drawer-header" ></StackLayout>
+
+        <StackLayout class="drawer-links" orientation="vertical" >
+            <StackLayout class="drawer-link" orientation="horizontal" [nsRouterLink]="['/home']" >
+                <Label class="fa" text="{{'fa-home' | fonticon}}" ></Label>
+                <Label class="text" text="Home" ></Label>
+            </StackLayout>
+            <StackLayout class="drawer-link" orientation="horizontal" [nsRouterLink]="['/menu']" >
+                <Label class="fa" text="{{'fa-cutlery' | fonticon}}" ></Label>
+                <Label class="text" text="Menu" ></Label>
+            </StackLayout>
+            <StackLayout class="drawer-link" orientation="horizontal" [nsRouterLink]="['/home']" >
+                <Label class="fa" text="{{'fa-cog' | fonticon}}" ></Label>
+                <Label class="text" text="Preferences" ></Label>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+        
+    <StackLayout tkMainContent>
+        <Label [text]="mainContentText" textWrap="true" class="drawerContentText"></Label>
+        <Button text="OPEN DRAWER" (tap)=openDrawer()></Button>
+    </StackLayout>
+</RadSideDrawer>

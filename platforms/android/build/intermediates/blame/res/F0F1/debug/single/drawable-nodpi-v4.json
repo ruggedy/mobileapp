@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-nodpi-v4/splashscreen.9.png",
+        "source": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/src/main/res/drawable-nodpi/splashscreen.9.png"
+    },
+    {
+        "merged": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/home/deathstalker/Projects/nativescript/EatSafe/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+    }
+]

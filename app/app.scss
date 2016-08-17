@@ -1,0 +1,26 @@
+﻿@import url("~/platform.css");
+
+Page {
+	background-color: white;
+	font-size: 16;
+}
+
+TextField {
+	padding: 10;
+	font-size: 16;
+}
+
+.small-spacing {
+  margin: 5;
+}
+.medium-spacing {
+  margin: 10;
+}
+
+ActionBar {
+	padding: 10;
+}
+
+.fa {
+	font-family: FontAwesome;
+}
